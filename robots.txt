@@ -1,1 +1,1 @@
-Sitemap: electronicdancemusic53/sitemap.xml
+Sitemap: https://edm629.netlify.app/sitemap.xml
